@@ -24,3 +24,4 @@
 ✨ Использование
 
 Функция предназначена для работы с отчетами OWASP ZAP, позволяя получить удобный для анализа формат данных об уязвимостях веб-приложений.
+![image](https://github.com/EL-MEDVEDO/function_title-zapproxy_json_processing/assets/110033694/fecca3b4-42bf-471d-9ab4-fc673237586d)
